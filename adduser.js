@@ -1,8 +1,3 @@
-/**
-* @author MSRTanim
-* @warn Do not edit code or edit credits
-*/
-
 module.exports.config = {
 	name: "adduser",
 	version: "2.4.3",
